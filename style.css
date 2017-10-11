@@ -36,7 +36,6 @@ h1 {text-align: center;}
 #about h1 {margin-bottom: 0;text-align: left;}
 #my-work-gallery {text-align: center;}
 /* 原始 CSS code */
-@media screen and (max-width: 1023px) { /* 手機版的 CSS 都寫在這裡 */ }
 
 
 @media screen and (max-width: 1023px) { .container {width: auto:}/* 往下繼續手機版的 CSS 都寫在這裡 */ }
